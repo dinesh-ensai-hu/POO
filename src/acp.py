@@ -8,3 +8,5 @@ iris = datasets.load_iris()
 
 pca = decomposition.PCA()
 pca.fit(iris.data)
+
+#Ajout sur le remote
